@@ -17,7 +17,7 @@ function App() {
     //   <ChildComponent/>
     // </UserContext.Provider>
     <CounterProvider>
-      <p>Helloxcfgbvcvxbfgfb</p>
+      <p style={{backgroundColor:"red"}}>Helloxcfgbvcvxbfgfb</p>
       <CounterOne />
     </CounterProvider>
   );
